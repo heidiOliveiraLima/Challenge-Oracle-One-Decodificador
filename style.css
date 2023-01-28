@@ -96,18 +96,17 @@ main{
     width: 50px;
     text-align: center;
     display: flex;
-}
-footer{
-    text-align: center;
-    align-items: center;
-}
-.icone-linkedin{
     margin-top: 100px;
     display: flex;
     margin-left: 47%;
     border:none;
-    
 }
+
+footer{
+    text-align: center;
+    align-items: center;
+}
+
 #creditos{
     margin-top: none;
     font-size: 18px;
