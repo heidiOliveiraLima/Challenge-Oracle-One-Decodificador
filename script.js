@@ -14,7 +14,7 @@ function btnEncriptar() {
     textArea.value = "";
 }
 
-function()
+
 
 function encriptar(stringEncriptada) {
 
